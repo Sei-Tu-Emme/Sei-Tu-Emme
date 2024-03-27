@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/custom-erp-software-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sei-tu-emme&label=Profile%20views&color=0e75b6&style=flat" alt="sei-tu-emme" /> </p>
 
-- 🌱 I’m currently learning **Conbine**
+- 🌱 I’m currently learning **Combine**
 
 - 💬 Ask me about **IOS,UIKit,Swift,Obj C**
 
