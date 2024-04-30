@@ -1,5 +1,5 @@
 ![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)
-<h3 align="center">Ciao belli, I'am IOS Engineer from Italy</h3>
+<h3 align="center">Ciao belli, I'm IOS Engineer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/custom-erp-software-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sei-tu-emme&label=Profile%20views&color=0e75b6&style=flat" alt="sei-tu-emme" /> </p>
 
